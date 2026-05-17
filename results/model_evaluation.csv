@@ -1,0 +1,3 @@
+Model,Test Accuracy,Notes
+Logistic Regression (TF-IDF),1.0,"Baseline, no word order"
+LSTM (Embedding),1.0,Sequence-aware model
